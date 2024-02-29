@@ -1,9 +1,9 @@
-#Proposal for Speech-to-Text API Selection**
+# Proposal for Speech-to-Text API Selection**
 
-##Objective:
+## Objective:
 The objective of this proposal is to evaluate and recommend a Speech-to-Text (STT) API that meets the following criteria: low cost, the ability to differentiate between multiple speakers, and high accuracy. We will compare Google Cloud Speech-to-Text API, Microsoft Azure Speech Service, and IBM Watson Speech to Text based on these requirements.
 
-##Criteria for Evaluation:
+## Criteria for Evaluation:
 
 1. Cost-effectiveness:
    - Comparison of pricing models and costs for different usage tiers.
@@ -14,7 +14,7 @@ The objective of this proposal is to evaluate and recommend a Speech-to-Text (ST
 3. Accuracy:
    - Assessment of the overall accuracy of transcription provided by each API.
 
-##Comparison:
+## Comparison:
 
 1. Google Cloud Speech-to-Text API:
    - Cost-effectiveness: Google Cloud Speech-to-Text offers competitive pricing, including a free tier for up to 60 minutes of audio per month and pay-as-you-go pricing thereafter. It provides cost-effective options for small to large-scale usage.
@@ -31,15 +31,6 @@ The objective of this proposal is to evaluate and recommend a Speech-to-Text (ST
    - Speaker Differentiation: IBM Watson Speech to Text supports speaker diarization, allowing it to distinguish between multiple speakers accurately.
    - Accuracy: IBM Watson Speech to Text is known for its high accuracy in transcription, especially in specialized domains and industries.
 
-Recommendation:
+## Recommendation:
 Based on the evaluation of the above criteria, I recommend the **Google Cloud Speech-to-Text API** for its cost-effectiveness, accurate speaker differentiation, and high transcription accuracy. It provides a balance between affordability and performance, making it suitable for your project's requirements.
-
-Next Steps:
-- Proceed with setting up and integrating the selected API into your project.
-- Conduct further testing and evaluation to ensure it meets your specific needs and expectations.
-- Monitor usage and costs to optimize resource allocation and budget management.
-
-If you require assistance with implementation or have any questions, please feel free to reach out for support.
-
-We look forward to helping you achieve success with your speech-to-text integration.
 
