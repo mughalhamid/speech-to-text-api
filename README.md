@@ -1,7 +1,7 @@
 # Project Proposal: Sermon Transcription and Editing Platform
 
 ## Introduction:
-Thank you for considering me for the development of a Sermon Transcription and Editing Platform. I am excited to propose a comprehensive solution that will streamline the process of transcribing and editing sermon content. Leveraging my expertise in React.js for the front end and .NET for the back end, along with the Google Cloud Speech-to-Text API, I aim to deliver a cost-effective, flexible, and efficient platform that meets your requirements.
+Thank you for considering me for the development of a Sermon Transcription, Translation, and Editing Platform. I am excited to propose a comprehensive solution that not only streamlines the process of transcribing and editing sermon content but also includes the capability to translate sermons into another language. Leveraging my expertise in React.js for the frontend and .NET for the backend, along with the Google Cloud Speech-to-Text API, I aim to deliver a cost-effective, flexible, and efficient platform that meets your expanded requirements.
 
 ## Project Scope:
 1. Upload Functionality:
@@ -16,8 +16,8 @@ Thank you for considering me for the development of a Sermon Transcription and E
    - Integrate the Google Cloud Speech-to-Text API to accurately transcribe sermon content.
    - Explore cost-effective transcription options to minimize expenses while maintaining transcription quality.
 
-4. Integration with Language Models:
-   - Research and integrate Language Models (LLMs) to enhance transcription quality and speaker identification.
+4. Integration with Language Models for Translation:
+   - Research and integrate Language Models (LLMs) to enable translation of sermons into another language.
    - Select a suitable LLM solution based on budget constraints and project requirements.
 
 5. Editing and Displaying Transcripts:
@@ -32,8 +32,8 @@ Thank you for considering me for the development of a Sermon Transcription and E
 1. Functional Sermon Transcription and Editing Platform accessible via a user-friendly web interface.
 2. Seamless integration with Google Cloud Speech-to-Text API for accurate transcription.
 3. Automated clipping feature for extracting sermon clips from full-service videos.
-4. Integration with Language Models for improved transcription quality and speaker identification.
-5. User-friendly editing interface to modify transcripts as needed.
+4. Integration with Language Models for improved transcription quality, speaker identification, and translation.
+5. User-friendly editing interface to modify transcripts, translate sermons, and make necessary adjustments efficiently.
 6. Efficient storage solution for storing and retrieving long text data.
 
 ## Architecture decision record (ADR)
