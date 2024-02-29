@@ -39,6 +39,7 @@ Thank you for considering me for the development of a Sermon Transcription and E
 ## Architecture decision record (ADR)
   - [Front-End Programming Language](https://github.com/mughalhamid/speech-to-text-api/blob/main/Front-End%20Programming%20Language%20Selection.md)
   - [Speech-to-Text API Selection](https://github.com/mughalhamid/speech-to-text-api/blob/main/Speech-to-Text%20API%20Selection.md)
+  - [Code sample](https://github.com/mughalhamid/speech-to-text-api/blob/main/program.cs)
 
 ## Conclusion:
 I am committed to delivering a high-quality Sermon Transcription and Editing Platform that meets your needs and exceeds your expectations. With my expertise in React.js, .NET, and Google Cloud technologies, I am confident in my ability to execute this project successfully.
